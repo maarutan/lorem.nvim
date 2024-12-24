@@ -1,12 +1,14 @@
 # lorem.nvim
 
-## example
+<hr />
 
-# lorem
+# example
+
+## lorem
 
 ![lorem10 Example](./.github/lorem.gif)
 
-# plorem
+## plorem
 
 ![plorem2 Example](./.github/plorem.gif)
 A Neovim plugin for generating and formatting Lorem Ipsum text directly in your editor. Designed to enhance productivity and simplify Lorem Ipsum generation with customizable options.
